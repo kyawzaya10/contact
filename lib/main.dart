@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
 mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            CircleAvatar(radius: 50,
+            CircleAvatar(radius: 150,
               backgroundImage: AssetImage("images/rose.jpg"),),
             Container(margin: EdgeInsets.all(30),
               // margin: EdgeInsets.all(50),
